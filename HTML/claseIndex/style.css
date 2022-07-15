@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+    border-radius: 20%;
+    cursor: grabbing;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.categoria {
+    font-size: 35px;
+    color: yellow;
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+.producto {
+    font-size: 25px;
+    color: red;
+    margin-bottom: 15px;
+}
+
